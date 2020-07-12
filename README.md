@@ -9,3 +9,7 @@ A stylesheet to flip "like" and "dislike" buttons on YouTube Music to make them 
 **After**
 
 ![After flipping](image/after.png)
+
+## LICENSE
+
+[GPLv3](LICENSE) (does not apply to screenshot iamges)
