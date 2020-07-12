@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name           music.youtube.com - 7/12/2020, 4:41:02 PM
+@namespace      github.com/shuuji3/openstyles/stylus
+@version        1.0.0
+@description    Flip the position of the "like" and "dislike" buttons.
+@author         TAKAHASHI Shuuji <shuuji3@gmail.com>
+==/UserStyle== */
+
+@-moz-document domain("music.youtube.com") {
+    ytmusic-like-button-renderer {
+        direction: rtl;
+    }
+}
