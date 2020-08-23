@@ -12,4 +12,4 @@ A stylesheet to flip "like" and "dislike" buttons on YouTube Music to make them 
 
 ## LICENSE
 
-[GPLv3](LICENSE) (does not apply to screenshot iamges)
+[GPLv3](LICENSE) (is not applied to the screenshot images)
